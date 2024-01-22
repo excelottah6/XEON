@@ -22,17 +22,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "2347036214381" //ur owner number2
-global.ownername = "ednut" //ur owner name
+global.ownernomer = "2347039570336" //ur owner number2
+global.ownername = "pisco" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "𝕰𝖉𝖓𝖚𝖙 𝖙𝖍𝖆 𝖑𝖊𝖌𝖊𝖓𝖉"
-global.ownernumber = '2347036214381'
-global.ownername = '亗『𝐋𝐄𝐆𝐄𝐍𝐃𝐀𝐑𝐘 𝐄𝐃𝐍𝐔𝐓』亗'
-global.ownerNumber = ["2347036214381@s.whatsapp.net"]
+global.botname = " XEON"
+global.ownernumber = '2347039570336'
+global.ownername = '亗『𝐋𝐄𝐆𝐄𝐍𝐃𝐀𝐑𝐘』亗'
+global.ownerNumber = ["2347039570336@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
 global.wagc = "https://chat.whatsapp.com/KRvekLByg21DrMn2SYY3db"
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Ednut did this!', 
+    success: 'XEON did this!', 
 }
 
 let file = require.resolve(__filename)
